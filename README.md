@@ -12,7 +12,7 @@ There are 3 variants which are all ideally spaced and made for the best experien
 **Light mode**
 ![Light mode](previews/light.png)  
 
-___
+---  
 
 
 ### Installition
