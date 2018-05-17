@@ -1,8 +1,8 @@
 # Plank themes x
 
 This is a set of plank themes i made for my elementary-os theme [elementary-x](https://github.com/surajmandalcell/elementary-x).
-There are 3 variants which are all ideally spaced and made for the best experience (imo). These are under MIT licence so just edit and share however you want, enjoy!
-
+There are 3 variants which are all ideally spaced and made for the best experience (imo). These are under MIT licence so just edit and share however you want, enjoy!  
+ 
 **Dark mode**
 ![Dark mode](previews/dark.png)
 
@@ -11,9 +11,6 @@ There are 3 variants which are all ideally spaced and made for the best experien
 
 **Light mode**
 ![Light mode](previews/light.png)  
-
----  
-
 
 ### Installition
 
