@@ -1,8 +1,7 @@
 # Plank themes x
 
 This is a set of plank themes i made for my elementary-os theme [elementary-x](https://github.com/surajmandalcell/elementary-x).
-
-There are 3 variants which are all ideally spaced and made for the best experience\\\(imo). These are under MIT licence so just edit and share however you want, enjoy!
+There are 3 variants which are all ideally spaced and made for the best experience (imo). These are under MIT licence so just edit and share however you want, enjoy!
 
 **Dark mode**
 ![Dark mode](previews/dark.png)
@@ -12,6 +11,9 @@ There are 3 variants which are all ideally spaced and made for the best experien
 
 **Light mode**
 ![Light mode](previews/light.png)  
+
+___
+
 
 ### Installition
 
@@ -24,6 +26,3 @@ You can either use the `install.sh` or use the steps below
 3. To enable the theme hover over your plank then when pressing `ctrl` press right click on any icon.
 
 4. The plank menu will appear, now select preferences and there you'll have the dialog to set your theme.  
-  
-___
-Also star the repository if you like <3
