@@ -29,7 +29,7 @@ ItemPadding=2
 #The size of item indicators, in tenths of a percent of IconSize.
 IndicatorSize=10
 #The size of the icon-shadow behind every item, in tenths of a percent of IconSize.
-IconShadowSize=0.23
+IconShadowSize=0
 #The height (in percent of IconSize) to bounce an icon when the application sets urgent.
 UrgentBounceHeight=1.5
 #The height (in percent of IconSize) to bounce an icon when launching an application.
